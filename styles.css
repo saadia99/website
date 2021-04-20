@@ -1,0 +1,153 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+
+}
+
+  h1{
+    color: #66BFBF;
+    font-size: 60px;
+    line-height: 2;
+    margin-top: 50px auto;
+    font-family:'Sacramento', cursive;
+  }
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Sacramento', cursive;
+}
+.top-container{
+  background-color: white;
+  position: relative;
+  padding-top: 100px;
+  background-color: #e3fdfd;
+
+}
+
+
+.bottom-container{
+  background-color: #71c9ce;
+  padding: 50px 0 20px;
+
+}
+p{
+  line-height: 2;
+}
+a{
+color:  #e3fdfd;
+font-family: 'Montserrat', sans-serif;
+margin: 10px 20px;
+text-decoration: none;
+
+}
+a:hover{
+  color: white;
+}
+
+.copywright{
+  color: #e3fdfd;
+  font-size : 0.75rem;
+  padding: 20px 0;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.Intro {
+  width: 30%;
+  margin: auto;
+
+}
+.plan{
+  width: 40%;
+  margin: 10px auto;
+}
+
+.assist{
+  width: 25%;
+  margin: 30px auto 60px;
+}
+
+.saadia-img{
+  width: 25%;
+  margin: 30px auto;
+
+}
+
+.social-media-img{
+  width: 30%;
+  float :right;
+  margin-right: 30px;
+}
+
+.marketing-img{
+  width: 40%;
+  float :left;
+  margin-right: 30px;
+}
+
+.project-img{
+  width: 30%;
+  float :right;
+margin-right: 30px;
+}
+
+.Content {
+  clear: right;
+}
+
+.Planning {
+  clear: left;
+}
+
+.Project {
+  clear: right;
+}
+
+
+.btn {
+	box-shadow:inset 0 1px 0 0 #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:6px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.btn {
+  margin-bottom: 40px;
+}
